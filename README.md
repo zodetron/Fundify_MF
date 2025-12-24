@@ -2,6 +2,10 @@
 
 AI-powered mutual fund prediction and recommendation platform designed for middle-class investors, combining **machine learning** with **live market intelligence**.
 
+## Main Structure 
+<img width="650" height="450" alt="diagram-export-12-19-2025-8_48_19-AM" src="https://github.com/user-attachments/assets/fccb67ba-5752-4b7f-a461-dd80929c2708" />
+
+
 
 ## Key Features
 
